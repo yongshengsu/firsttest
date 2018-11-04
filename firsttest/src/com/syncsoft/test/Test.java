@@ -6,7 +6,7 @@ package com.syncsoft.test;
 /**
  * 
  * @author suyongsheng
- * @date 2018Äê11ÔÂ4ÈÕ ÏÂÎç5:02:36
+ * @date 2018å¹´11æœˆ4æ—¥ ä¸‹åˆ5:02:36
  */
 public class Test {
 
